@@ -7,9 +7,9 @@ describe("🎓 Newton School RBAC Assignment", () => {
   let adminToken, teacherToken, studentToken;
 
   const users = [
-    { username: "alice", password: "123", role: "admin" },
-    { username: "bob", password: "123", role: "teacher" },
-    { username: "charlie", password: "123", role: "student" },
+    { username: "yash", password: "123", role: "admin" },
+    { username: "ankit", password: "123", role: "teacher" },
+    { username: "anurag", password: "123", role: "student" },
   ];
 
   // --- LOGIN TESTS ---
